@@ -1,4 +1,0 @@
-# Conference Readiness Statement
-
-This project was explicitly undertaken with the goal of producing a high-quality, conference-style research paper suitable for submission to venues such as the MIT Sloan Sports Analytics Conference or IEEE workshops. We adhered to the standard IMRaD structure, experimental design, comprehensive literature review, and full reproducibility requirements expected in peer-reviewed conference proceedings. The chosen IEEE conference format closely mirrors the style of our cited works (e.g., Oughali et al. [2] from IEEE ICCIS) and was selected as the most appropriate and professional presentation for this class project. By integrating novel player biometric features with a 20-season temporal analysis and providing open-source code, datasets, and detailed team contributions in the appendices, the work exceeds typical class-project expectations and demonstrates the depth and polish of scholarly research in sports analytics. 
-

@@ -17,7 +17,7 @@
 
 ## Overview
 
-This project develops and evaluates machine learning and deep learning models to predict whether an NBA shot will be made or missed. We combine comprehensive shot context data (location, game time, shot type, etc.) with player biometric attributes (height, weight, age) across **20 NBA seasons (2004–2024)**.
+This term project for CSCI-4170 Projects in AI & ML at Rensselaer Polytechnic Institute develops and evaluates machine learning and deep learning models to predict whether an NBA shot will be made or missed. We combine comprehensive shot context data (location, game time, shot type, etc.) with player biometric attributes (height, weight, age) across 20 NBA seasons (2004–2024).
 
 **Key Highlights:**
 - Highest test accuracy: **62.2%** (custom PyTorch Neural Network — ShotNet)
