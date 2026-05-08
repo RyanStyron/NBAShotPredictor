@@ -32,7 +32,7 @@ This project develops and evaluates machine learning and deep learning models to
 ## Main Repository Contents
 
 - [`shot_prediction_models.ipynb`](https://github.com/RyanStyron/NBAShotPredictor/blob/main/shot_prediction_models.ipynb) — Main modeling pipeline (data processing, EDA, all models, temporal analysis)
-- [`nba_api_pull_overview.ipynb`](https://github.com/RyanStyron/NBAShotPredictor/blob/main/nba_api_pull_overview.ipynb) — Biometric data retrieval using `nba_api`
+- [`nba_api_pull_overview.ipynb`](https://github.com/RyanStyron/NBAShotPredictor/blob/main/nba_api_pull_overview.ipynb) — Biometric data retrieval using [`nba_api`](https://github.com/swar/nba_api)
 - [`NBA_Shot_Prediction.pdf`](https://github.com/RyanStyron/NBAShotPredictor/blob/main/docs/NBA-Shot-Prediction-Report.pdf) — Full research paper (conference format)
 
 
