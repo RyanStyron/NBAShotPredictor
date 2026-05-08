@@ -26,7 +26,7 @@ This project develops and evaluates machine learning and deep learning models to
 - Novel integration of player biometrics with spatial shot data
 - Full reproducibility with public datasets and code
 
-**[Read the Full Paper →](https://github.com/RyanStyron/NBAShotPredictor/blob/main/NBA_Shot_Prediction.pdf)**
+**[Read the Full Paper →](https://github.com/RyanStyron/NBAShotPredictor/blob/main/docs/NBA-Shot-Prediction-Report.pdf)**
 
 ---
 
