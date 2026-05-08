@@ -1,6 +1,5 @@
-# NBA Shot Prediction
 
-**Predicting NBA Shot Outcomes (Made/Missed) using Spatial + Player Biometric Data (2004–2024)**
+# Predicting NBA Shot Outcomes (Made/Missed) using Spatial + Player Biometric Data (2004–2024)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
